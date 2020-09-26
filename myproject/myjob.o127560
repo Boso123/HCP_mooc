@@ -1,0 +1,17 @@
+
+########################################################################
+# Colfax Cluster - https://colfaxresearch.com/
+#      Date:           Wed Sep 16 18:51:36 PDT 2020
+#    Job ID:           127560.c008
+#      User:           u49037
+# Resources:           neednodes=1:xeonphi,nodes=1:xeonphi,walltime=00:02:00
+########################################################################
+
+Hello world! I am running on host c008-n001 with 256 logical CPUs. 
+
+########################################################################
+# Colfax Cluster
+# End of output for job 127560.c008
+# Date: Wed Sep 16 18:51:37 PDT 2020
+########################################################################
+

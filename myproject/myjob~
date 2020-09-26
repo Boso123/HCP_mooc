@@ -1,0 +1,6 @@
+cd $PBS_O_WORKDIR
+
+./hello
+
+#Remember have an empty line before the last command
+

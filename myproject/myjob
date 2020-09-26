@@ -1,0 +1,10 @@
+#PBS -l walltime=0:03:00
+#PBS -n otherjob
+#PBS -l nodes=4
+
+cd $PBS_O_WORKDIR
+
+./hello
+
+#Remember have an empty line before the last command
+
